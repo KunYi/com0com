@@ -1,4 +1,4 @@
-# com0com (CVS → Git archival mirror)
+# com0com (CVS → Git archival mirror) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/KunYi/com0com)
 
 This repository is an **unofficial archival mirror** of the original
 **com0com** project, preserved after SourceForge discontinued CVS hosting.
